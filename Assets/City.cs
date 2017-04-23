@@ -50,7 +50,7 @@ public class City : MonoBehaviour {
             buildings.Add(new List<Building>());
         }
 
-        StartCoroutine(Shrinker());
+        //StartCoroutine(Shrinker());
 	}
 
     public void Reset()
